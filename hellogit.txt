@@ -1,1 +1,2 @@
 hello，git, this is first study
+this is second modify
